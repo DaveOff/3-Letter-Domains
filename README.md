@@ -9,3 +9,4 @@
 | ME | `2021-08-03` | [Read](https://gist.github.com/DaveOff/3520e7bddf394408532fc86674cdab56) |
 | RU | `2021-08-03` | [Read](https://gist.github.com/DaveOff/66a0ae4dd375ccfae71784ee915afe0c) |
 | UK | `2021-08-03` | [Read](https://gist.github.com/DaveOff/c8225d3a1b4cb53dfdfa4c564640c126) |
+| IN | `2021-08-03` | [Read](https://gist.github.com/DaveOff/ad70e53f4a603879b00cafdb0bc0a28a) |
